@@ -5,7 +5,7 @@ My first repository
 - Diary of a Wimpy Kid
 - Fliped
 - RPG Metanoia
-  
+
 
 # **Favorite Series**
 - The Walking Dead
